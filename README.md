@@ -1,86 +1,107 @@
-<h1 align="center">Hi 👋, I'm Vatsan</h1>
-<h3 align="center">Backend Developer from Bengaluru, India</h3>
+<!-- Profile header with photo -->
+<p align="center">
+  <img src="YOUR_PROFILE_PHOTO_URL" alt="Srivatsan N" width="140" height="140" style="border-radius:50%; object-fit:cover;" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Srivatsan+N+👋;Backend+Engineer+from+Bengaluru%2C+India;Java+%7C+Spring+Boot+%7C+Distributed+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:vatsan127@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vatsan127%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/vatsan127">
+    <img src="https://img.shields.io/badge/GitHub-vatsan127-24292F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/srivatsan-n/">
+    <img src="https://img.shields.io/badge/LinkedIn-Srivatsan%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@vatsan127">
+    <img src="https://img.shields.io/badge/Blog-Medium-111827?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:vatsan127@gmail.com">Email</a> •
   <a href="https://github.com/vatsan127?tab=repositories">Projects</a> •
   <a href="https://www.linkedin.com/in/srivatsan-n/">LinkedIn</a> •
-  <a href=https://medium.com/@vatsan127"">Blog</a>
+  <a href="https://medium.com/@vatsan127">Blog</a>
 </p>
 
 ---
 
-### 👨‍💻 About me
+## ✨ About me
 
-- 🔭 I’m currently working on a **Spring Boot microservice** for a task management app with **PostgreSQL** and **JWT auth**.  
-- 🌱 I’m currently learning **Spring Security** (JWT, OAuth2) and advanced auth patterns.  
-- 🤝 I’m looking to collaborate on **Java / Spring Boot backend** and **REST API** projects.  
-- ❓ Ask me about **Java, Spring Boot, REST APIs, PostgreSQL, backend architecture**.  
-- 📫 How to reach me: **vatsan127@gmail.com**  
+- 💼 Software Development Engineer at **Comviva**, Bengaluru. [file:49]
+- 🔭 Working on scalable backend systems for high-traffic enterprise platforms. [file:49]
+- 🌱 Deep-diving into **Spring Security, gRPC, microservices and Kubernetes**. [file:49]
+- 💬 Ask me about **Java, Spring Boot, Kafka, microservices, backend performance tuning**. [file:49]
 - ⚡ Fun fact: **I think I should start learning Java again.**
 
 ---
 
-### 🛠 Tech stack
+## 🧠 Technical skills
 
-#### Languages  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+- **Languages:** Java
+- **Backend:** Spring, Spring Boot, gRPC, REST APIs
+- **Messaging & Streaming:** Apache Kafka
+- **Databases:** SQL (PostgreSQL / other relational DBs)
+- **DevOps & Infra:** Docker, Kubernetes, Linux
+- **Tooling:** Maven, Git, GitHub, Jira
+- **CS Fundamentals:** Data Structures & Algorithms
 
-#### Backend & Frameworks  
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
-</p>
-
-#### Databases & Tools  
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+Skills summarized from professional work and certifications. [file:49]
 
 ---
 
-### 📊 GitHub stats
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsan127&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+- **Senior Product Development Engineer – Comviva**  
+  *Jul 2024 – Present · Bengaluru, India* [file:49]
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsan127&theme=tokyonight" alt="GitHub streak" />
-</p>
+- **Product Development Engineer – Comviva**  
+  *Aug 2023 – Jul 2024 · Bengaluru, India* [file:49]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan127&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+- **Engineer Trainee – Comviva**  
+  *Feb 2023 – Aug 2023 · Bengaluru, India* [file:49]
 
 ---
 
-### 🚀 Featured projects
+## 🚀 Project highlights
 
-- 🧾 **Task Manager API** – Spring Boot + PostgreSQL REST API with JWT auth.  
-- 📚 **Learning Tracker** – Track what you’re learning with Spring Boot and simple dashboards.  
-- 🛡 **Spring Security Playground** – Experiments with JWT, roles, and method-level security.  
+> I love building clean, production-ready backend services.
 
-👉 Check all my projects here: **[github.com/vatsan127?tab=repositories](https://github.com/vatsan127?tab=repositories)**
+- 🔹 **PROJECT_NAME_1** – Your main personal project (short description, tech: Java, Spring Boot, PostgreSQL).
+- 🔹 **PROJECT_NAME_2** – Another project you want to highlight.
+- 🔹 **PROJECT_NAME_3** – Side / experimental / fun project.
+
+📦 Plus many public repositories on GitHub showcasing experiments, utilities, and learning projects.  
+🔗 Explore everything here: **[github.com/vatsan127?tab=repositories](https://github.com/vatsan127?tab=repositories)**
 
 ---
 
-### 📬 Connect with me
+## 📊 GitHub at a glance
 
-<p>
-  <a href="mailto:vatsan127@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vatsan127%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="YOUR_BLOG_URL">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
-  </a>
+> Cards summarizing your public work, total projects and weekly streaks using GitHub stat services. [web:41][web:61]
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vatsan127&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=38BDF8" 
+    alt="GitHub stats card showing total repositories, stars and commits" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=vatsan127&theme=radical&hide_border=true&background=0D1117&mode=weekly" 
+    alt="GitHub contribution streak card showing weekly streaks" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan127&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" 
+    alt="Top languages card" 
+  />
 </p>
