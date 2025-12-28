@@ -61,6 +61,14 @@
 
 <br/>
 
+<h2 align="center">💭 Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vatsan127&style=for-the-badge&color=667eea" />
 </p>
