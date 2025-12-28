@@ -25,7 +25,7 @@
 
 <br/>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,docker,kubernetes&theme=dark" alt="Backend" />
@@ -36,7 +36,7 @@
 
 <br/>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" /> &nbsp;Experience</h2>
+<h2 align="center">💼 Experience</h2>
 
 <div align="center">
 
@@ -50,13 +50,7 @@
 
 <br/>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vatsan127&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea&mode=weekly" alt="GitHub Streak" />
-</div>
-
-<br/>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsan127&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" />
