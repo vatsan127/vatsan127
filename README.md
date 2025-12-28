@@ -1,26 +1,27 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
 
-<table>
-<tr>
-<td width="180">
-<img src="https://images.weserv.nl/?url=github.com/vatsan127.png&h=150&w=150&fit=cover&mask=circle" alt="Profile Photo" />
-</td>
-<td>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Srivatsan+%F0%9F%91%8B;Backend+Engineer+%E2%80%A2+Bengaluru" alt="Typing SVG" />
+</p>
 
-### Hey, I'm Srivatsan 👋
+<p align="center">
+  <em>Building scalable backend systems that handle millions of requests</em>
+</p>
 
-**Senior Product Development Engineer @ Comviva**
-
-*Building scalable backend systems that handle millions of requests*
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vatsan127@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vatsan127)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivatsan-n/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@vatsan127)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="mailto:vatsan127@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/vatsan127">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/srivatsan-n/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@vatsan127">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
