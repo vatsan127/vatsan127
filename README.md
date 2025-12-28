@@ -1,8 +1,3 @@
-<!-- Profile header with photo -->
-<p align="center">
-  <img src="YOUR_PROFILE_PHOTO_URL" alt="Srivatsan N" width="140" height="140" style="border-radius:50%; object-fit:cover;" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Srivatsan+N+👋;Backend+Engineer+from+Bengaluru%2C+India;Java+%7C+Spring+Boot+%7C+Distributed+Systems" alt="Typing SVG" />
 </p>
@@ -33,10 +28,10 @@
 
 ## ✨ About me
 
-- 💼 Software Development Engineer at **Comviva**, Bengaluru. [file:49]
-- 🔭 Working on scalable backend systems for high-traffic enterprise platforms. [file:49]
-- 🌱 Deep-diving into **Spring Security, gRPC, microservices and Kubernetes**. [file:49]
-- 💬 Ask me about **Java, Spring Boot, Kafka, microservices, backend performance tuning**. [file:49]
+- 💼 Software Development Engineer at **Comviva**, Bengaluru.
+- 🔭 Working on scalable backend systems for high-traffic enterprise platforms.
+- 🌱 Deep-diving into **Spring Security, gRPC, microservices and Kubernetes**.
+- 💬 Ask me about **Java, Spring Boot, Kafka, microservices, backend performance tuning**.
 - ⚡ Fun fact: **I think I should start learning Java again.**
 
 ---
@@ -51,39 +46,30 @@
 - **Tooling:** Maven, Git, GitHub, Jira
 - **CS Fundamentals:** Data Structures & Algorithms
 
-Skills summarized from professional work and certifications. [file:49]
-
 ---
 
 ## 💼 Experience
 
-- **Senior Product Development Engineer – Comviva**  
-  *Jul 2024 – Present · Bengaluru, India* [file:49]
+- **Senior Product Development Engineer – Comviva**
+  *Jul 2024 – Present · Bengaluru, India*
 
-- **Product Development Engineer – Comviva**  
-  *Aug 2023 – Jul 2024 · Bengaluru, India* [file:49]
+- **Product Development Engineer – Comviva**
+  *Aug 2023 – Jul 2024 · Bengaluru, India*
 
-- **Engineer Trainee – Comviva**  
-  *Feb 2023 – Aug 2023 · Bengaluru, India* [file:49]
+- **Engineer Trainee – Comviva**
+  *Feb 2023 – Aug 2023 · Bengaluru, India*
 
 ---
 
-## 🚀 Project highlights
+## 🚀 Projects
 
 > I love building clean, production-ready backend services.
 
-- 🔹 **PROJECT_NAME_1** – Your main personal project (short description, tech: Java, Spring Boot, PostgreSQL).
-- 🔹 **PROJECT_NAME_2** – Another project you want to highlight.
-- 🔹 **PROJECT_NAME_3** – Side / experimental / fun project.
-
-📦 Plus many public repositories on GitHub showcasing experiments, utilities, and learning projects.  
-🔗 Explore everything here: **[github.com/vatsan127?tab=repositories](https://github.com/vatsan127?tab=repositories)**
+📦 Explore my repositories here: **[github.com/vatsan127?tab=repositories](https://github.com/vatsan127?tab=repositories)**
 
 ---
 
 ## 📊 GitHub at a glance
-
-> Cards summarizing your public work, total projects and weekly streaks using GitHub stat services. [web:41][web:61]
 
 <p align="center">
   <img 
