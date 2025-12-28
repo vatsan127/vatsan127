@@ -28,9 +28,14 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,docker,kubernetes&perline=6" alt="Tech Stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,maven,redis,idea,postman&perline=6" alt="Tools" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,docker,kubernetes&theme=dark" alt="Backend Skills" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,maven,redis,idea,postman&theme=dark" alt="Tools" />
+  </a>
 </p>
 
 <br/>
