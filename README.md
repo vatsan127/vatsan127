@@ -108,28 +108,15 @@ fun_fact: "I think I should start learning Java again"
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" /> &nbsp;Experience
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-**Senior Product Development Engineer**
-<sub>Comviva · Jul 2024 – Present</sub>
+| Role | Company | Duration |
+|:----:|:-------:|:--------:|
+| **Senior Product Development Engineer** | Comviva | Jul 2024 – Present |
+| **Product Development Engineer** | Comviva | Aug 2023 – Jul 2024 |
+| **Engineer Trainee** | Comviva | Feb 2023 – Aug 2023 |
 
-</td>
-<td>
-
-**Product Development Engineer**
-<sub>Comviva · Aug 2023 – Jul 2024</sub>
-
-</td>
-<td>
-
-**Engineer Trainee**
-<sub>Comviva · Feb 2023 – Aug 2023</sub>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -145,20 +132,22 @@ fun_fact: "I think I should start learning Java again"
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vatsan127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=vatsan127&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vatsan127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vatsan127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
+</div>
 
 <br/>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vatsan127&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsan127&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" />
-</p>
+</div>
 
 <br/>
 
