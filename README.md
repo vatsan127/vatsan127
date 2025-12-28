@@ -140,7 +140,7 @@ fun_fact: "I think I should start learning Java again"
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vatsan127&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea&mode=weekly" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vatsan127&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea&mode=weekly" alt="GitHub Streak" />
 </div>
 
 <br/>
