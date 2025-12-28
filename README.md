@@ -27,60 +27,11 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack</h2>
 
-<table align="center">
-<tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <br><strong>Java</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-  <br><strong>Spring Boot</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-  <br><strong>Kafka</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <br><strong>Docker</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-  <br><strong>Kubernetes</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  <br><strong>Linux</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br><strong>Git</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-  <br><strong>Maven</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-  <br><strong>Redis</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-  <br><strong>IntelliJ</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-  <br><strong>Postman</strong>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,docker,kubernetes&perline=6" alt="Tech Stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,git,maven,redis,idea,postman&perline=6" alt="Tools" />
+</p>
 
 <br/>
 
@@ -95,16 +46,6 @@
 | **Engineer Trainee** | Comviva | Feb 2023 – Aug 2023 |
 
 </div>
-
-<br/>
-
-<h2 align="center">🚀 Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/vatsan127?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-667eea?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <br/>
 
