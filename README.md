@@ -120,7 +120,7 @@ fun_fact: "I think I should start learning Java again"
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Projects
+## 🚀 Projects
 
 <p align="center">
   <a href="https://github.com/vatsan127?tab=repositories">
@@ -140,7 +140,7 @@ fun_fact: "I think I should start learning Java again"
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vatsan127&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" />
+  <img src="https://streak-stats.demolab.com?user=vatsan127&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea&mode=weekly" />
 </div>
 
 <br/>
