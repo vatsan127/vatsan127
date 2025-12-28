@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
 
 <p align="center">
+  <img src="https://github.com/vatsan127.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Photo" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Srivatsan+%F0%9F%91%8B;Backend+Engineer+%E2%80%A2+Bengaluru" alt="Typing SVG" />
 </p>
 
