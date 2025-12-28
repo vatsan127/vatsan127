@@ -27,9 +27,12 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack</h2>
 
-<marquee behavior="alternate" direction="left" scrollamount="3">
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,docker,kubernetes,linux,git,maven,redis,idea,postman&theme=dark" alt="Tech Stack" />
-</marquee>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,docker,kubernetes&theme=dark" alt="Backend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,maven,redis,idea,postman&theme=dark" alt="Tools" />
+</p>
 
 <br/>
 
@@ -68,9 +71,5 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vatsan127&style=for-the-badge&color=667eea" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
